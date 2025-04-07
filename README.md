@@ -46,11 +46,7 @@ gmail-feedback-extension/
 - UI enhancements inside Gmail sidebar (InboxSDK or DOM injection)
 - User authentication & tagging
 
----
 
-## 📸 Preview
-
-![screenshot](https://via.placeholder.com/400x200?text=Popup+UI+Preview)
 
 ---
 
